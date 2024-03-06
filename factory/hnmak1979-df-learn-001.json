@@ -1,0 +1,9 @@
+{
+	"name": "hnmak1979-df-learn-001",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9e56ae0-ec62-4612-b94a-24950844218c",
+		"tenantId": "500501ab-c034-474d-9466-a464f2a81413"
+	}
+}
